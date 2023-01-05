@@ -155,11 +155,10 @@
       <br>ClouFlare <h5> ███░░░░ </h5>
     </td>
     <td align="center" width="96">
-      <a href="##gadsilva">
-        <img src="./img/cicd-original.png" width="46" height="46" alt="CI/CD" />
+      <a href="#gadsilva" >
+        <img src="./img/dyn-original.png" width="46" height="46" alt="dd" />
       </a>
-      <br>CI/CD
-    </td>  
+      <br>Dyndns <h5> ██████░ </h5>
     <td align="center" width="96">
       <a href="##gadsilva">
         <img src="./img/cicd-original.png" width="46" height="46" alt="CI/CD" />
