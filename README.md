@@ -156,7 +156,7 @@
     </td>
     <td align="center" width="96">
       <a href="#gadsilva" >
-        <img src="./img/dyn-original.png" width="46" height="46" alt="dd" />
+        <img src="./img/dyn-original.svg" width="46" height="46" alt="dd" />
       </a>
       <br>Dyndns <h5> ██████░ </h5>
     <td align="center" width="96">
