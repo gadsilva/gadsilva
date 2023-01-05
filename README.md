@@ -163,19 +163,19 @@
       <a href="##gadsilva">
         <img src="./img/cicd-original.png" width="46" height="46" alt="CI/CD" />
       </a>
-      <br>CI/CD
+      <br>CI/CD <h5> ███████ </h5>
     <td align="center" width="96">
       <a href="##gadsilva">
-        <img src="./img/cicd-original.png" width="46" height="46" alt="CI/CD" />
+        <img src="./img/iac-original.png" width="46" height="46" alt="iac" />
       </a>
-      <br>CI/CD
+      <br>IAC <h5> ███████ </h5>
     </td>       
     </td>
      <td align="center" width="96">
       <a href="#gadsilva">
-        <img src="./img/docker-original.png" width="46" height="46" alt="docker" />
+        <img src="./img/ritu-original.png" width="46" height="46" alt="ritu" />
       </a>
-      <br>Docker
+      <br>Rituals <h5> ███████ </h5>
     </td>           
   </tr>  
 </table>
