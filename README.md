@@ -173,7 +173,7 @@
     </td>
      <td align="center" width="96">
       <a href="#gadsilva">
-        <img src="./img/ritu-original.png" width="46" height="46" alt="ritu" />
+        <img src="./img/ritus-original.svg" width="46" height="46" alt="ritu" />
       </a>
       <br>Rituals <h5> ███████ </h5>
     </td>           
