@@ -175,7 +175,7 @@
       <a href="#gadsilva">
         <img src="./img/ritus-original.svg" width="46" height="46" alt="ritu" />
       </a>
-      <br> agile method <h5> ███████ </h5>
+      <br> Agile <h5> ███████ </h5>
     </td>           
   </tr>  
 </table>
