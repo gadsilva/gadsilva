@@ -1,5 +1,9 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I am Gabriel Barreto</h1>
-<h5 align="left">I am an IT enthusiast, where I started in my first company in the infrastructure area, after doing freelancers as a front-end, I managed to combine the two things I loved, infrastructure and code. Today I'm an admirer, playing with SRE/DevOps Engineering stuff. #aliveIAC</h5>
+<h5 align="left">
+IT professional with a background in Infrastructure and Front-end development.
+I enjoy building scalable, reliable systems by combining code and infrastructure.
+Currently focused on SRE / DevOps practices and Infrastructure as Code. 🚀 #AliveIaC
+</h5>
 <div> 
   <a href = "mailto:gabriel02_barreto@hotmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="blank"></a>
   <a href="https://www.linkedin.com/in/gabrielbarretods/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
