@@ -1,226 +1,72 @@
-<h1 align="left" id="macropower-title">:wave: Hello there! I am Gabriel Barreto</h1>
-<h5 align="left">
-IT professional with a background in Infrastructure and Front-end development.
-I enjoy building scalable, reliable systems by combining code and infrastructure.
-Currently focused on SRE / DevOps practices and Infrastructure as Code. 🚀 #AliveIaC
-</h5>
-<div> 
-  <a href = "mailto:gabriel02_barreto@hotmail.com" target="blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="blank"></a>
-  <a href="https://www.linkedin.com/in/gabrielbarretods/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a> 
-</div>
+<h1 align="center">Hi, I'm Gabriel Barreto 👋</h1>
 
-<br>
+<p align="center">
+  <b>SRE / DevOps Engineer · Infrastructure as Code · Cloud Practitioner</b><br/>
+  Building scalable, reliable systems where code meets infrastructure.
+</p>
 
- <div>
+<p align="center">
+  <a href="mailto:gabriel02_barreto@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabrielbarretods/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="https://github.com/gadsilva">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gadsilva&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gadsilva&layout=compact&langs_count=7&theme=highcontrast"/>
-</div>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-<br>
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+---
 
-> Tools, languages, and other things that I like to work with.
+## About Me
 
-<table>
-  <tr>
-  <!-– ##first column -- >
-  <!-– #programming language and CI/CD -- >
-    <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/python-original.png" width="48" height="48" alt="py" />
-      </a>
-      <br> Python <h5> █████░░ </h5>
-    </td> 
-    <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/tf-original.png" width="48" height="48" alt="tf" />
-      </a>
-      <br> Terraform/hcl <h5> █████░░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/css-original.png" width="46" height="46" alt="css" />
-      </a>
-      <br> CSS <h5>  ██████░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/js-original.png" width="46" height="46" alt="js" />
-      </a>
-      <br>JS <h5> ██░░░░░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/powershell-original.png" width="46" height="46" alt="Powershell" />
-      </a>
-      <br>Powershell  <h5> █████░░ </h5>
-    </td>    
-    <!-– #CI/CD / Versionamento -- >
-    <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/azure-original.png" width="46" height="46" alt="azuredevops" />
-      </a>
-      <br> AzDevOPs <h5> ████░░░ </h5>
-    </td> 
-    <td align="center" width="96">
-      <a href="#gadsilva" >
-        <img src="./img/gitlab-original.png" width="46" height="46" alt="lab" />
-      </a>
-      <br>  Git Lab <h5> ███░░░░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/github-original.png" width="46" height="46" alt="hub" />
-      </a>
-      <br>Git Hub <h5> █████░░ </h5>
-    </td>    
-  </tr>
-  <tr>
-    <!-– ##Second column -- >
-    <!-– # containers-- >
-     <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/docker-original.png" width="46" height="46" alt="docker" />
-      </a>
-      <br>Docker <h5> █████░░ </h5>
-    </td>
-   <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/kubernetes-original.png" width="46" height="46" alt="kubernetes" />
-      </a>
-      <br>Kubernetes  <h5> ███░░░░ </h5>
-    </td>
-    <!-– #OS -- > 
-    <td align="center" width="96">
-      <a href="#gadsilva" >
-        <img src="./img/win-original.png" width="46" height="46" alt="win" />
-      </a>
-      <br>Windows <h5> ████░░░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva" >
-        <img src="./img/linux-original.png" width="46" height="46" alt="linux" />
-      </a>
-      <br>Linux <h5> █████░░ </h5>
-    </td>
-    <!-– #Cloud -- > 
-    <td align="center" width="96">
-      <a href="##gadsilva">
-        <img src="./img/gcp-original.png" width="46" height="46" alt="gcp" />
-      </a>
-      <br>GCP <h5> ████░░░ </h5>
-    </td> 
-   <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/azure-original.png" width="46" height="46" alt="azure" />
-      </a>
-      <br>Azure <h5> ████░░░ </h5>
-    </td>    
-   <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/aws-original.png" width="46" height="46" alt="aws" />
-      </a>
-      <br>AWS <h5> ██░░░░░ </h5>
-    </td> 
-    <!-– #source-code editor -- > 
-     <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/vscode-original.png" width="46" height="46" alt="vsr" />
-      </a>
-      <br>VSCode <h5> █████░░ </h5>
-    </td>              
-  </tr>
-  <tr>
-  <!-– #third line -- >
-  <!-– #Monitoring -- >
-    <td align="center"  width="96">
-      <a href="#gadsilva">
-        <img src="./img/nr-original.png" width="46" height="46" alt="nr" />
-      </a>
-      <br>Newrelic <h5> ███░░░░ </h5>
-    </td>
-    <td align="center"  width="96">
-      <a href="#gadsilva">
-        <img src="./img/pd-original.png" width="46" height="46" alt="pd" />
-      </a>
-      <br>Pagerduty <h5> ███░░░░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva" >
-        <img src="./img/grafana-original.png" width="46" height="46" alt="Grafana" />
-      </a>
-      <br>Grafana <h5> ███░░░░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva" >
-        <img src="./img/cloudflare-original.png" width="46" height="46" alt="cf" />
-      </a>
-      <br>ClouFlare <h5> ███░░░░ </h5>
-    </td>
-    <td align="center" width="96">
-      <a href="#gadsilva" >
-        <img src="./img/dyn-original.svg" width="46" height="46" alt="dd" />
-      </a>
-      <br>Dyndns <h5> ██████░ </h5>
-    <td align="center" width="96">
-      <a href="##gadsilva">
-        <img src="./img/cicd-original.png" width="46" height="46" alt="CI/CD" />
-      </a>
-      <br>CI/CD <h5> ███████ </h5>
-    <td align="center" width="96">
-      <a href="##gadsilva">
-        <img src="./img/iac-original.png" width="46" height="46" alt="iac" />
-      </a>
-      <br>IAC <h5> ███████ </h5>
-    </td>       
-    </td>
-     <td align="center" width="96">
-      <a href="#gadsilva">
-        <img src="./img/ritus-original.svg" width="46" height="46" alt="ritu" />
-      </a>
-      <br> Agile <h5> ███████ </h5>
-    </td>           
-  </tr>  
-</table>
- 
-<br>
+I'm an IT professional with a background in **Infrastructure** and **Front-end Development**, currently focused on SRE, DevOps and Platform Engineering. I enjoy bridging the gap between development and operations automating everything that can be automated and making systems more observable, resilient, and easy to maintain.
 
-📊 **Currently I've been spending more of my time using:**
-<!--START_SECTION:waka-->
+- 🏢 Currently working at **[Stone](https://github.com/stone-payments)**
+- 🌱 Learning **Ansible** and **Go**
+- ☁️ Day-to-day: GCP, Terraform, Azure DevOps, and GitHub Actions
+- 💬 Ask me about **Terraform**, **Python**, or **IaC best practices**
+- 📬 Questions? Open an [issue](https://github.com/gadsilva/issues)
 
-```text
-GCP           ███████████████████████▓░   39.40 %
-Terraform     ████████████████████░░░░░   30.60 %
-Az DevOps     █████████████████░░░░░░░░   15.00 %
-GitHub        █████████████████░░░░░░░░   15.00 %
-```
-<!--END_SECTION:waka-->
+---
 
-- :office: &nbsp;I'm currently working at **[Stone]**
-- :seedling: &nbsp;I’m currently learning **Ansible and Go**
-- :speech_balloon: &nbsp;I like to talk about **Terraform** and **Pyhon**
-- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+## Tech Stack
 
+### Languages & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HCL / Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+### Cloud & Infrastructure
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-<h2 align="left">Coding Activity</h2>
+### CI/CD & Version Control
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
-> Total logged time since 2018. Updated every 1 hour. 
+### Monitoring & Observability
+![New Relic](https://img.shields.io/badge/New_Relic-008C99?style=flat-square&logo=new-relic&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=flat-square&logo=pagerduty&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
+---
 
-```
+## 📈 Contribution Activity
 
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
+[![Gabriel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gadsilva&theme=github-dark)](https://github.com/gadsilva)
 
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
+---
 
-<!-- links -->
-
-[Stone]: https://github.com/stone-payments "Stone"
-[issues page]: https://github.com/gadsilva/issues "gadilva/issues"
+<p align="center">
+  <i>"Automate everything, observe everything, learn from what breaks." </i>
+</p>
